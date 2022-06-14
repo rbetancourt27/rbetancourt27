@@ -4,7 +4,6 @@
 
 ### Languages and tools
 
-### Languages and tools
 - C#
 - Python
 - Kotlin
