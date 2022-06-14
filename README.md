@@ -2,6 +2,8 @@
 
 <!-- ### Learning on [Kave Home](https://kavehome.com/) -->
 
+### I'm a junior full stack developer who's apassionate for programming and learning
+
 ### Languages and tools
 
 - C#
