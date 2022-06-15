@@ -7,6 +7,7 @@
 ### Languages and tools
 
 - C#
+- Java
 - Python
 - Kotlin
 - Javascript
